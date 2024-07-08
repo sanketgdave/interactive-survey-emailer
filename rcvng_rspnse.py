@@ -3,8 +3,8 @@ import ssl
 from email.message import EmailMessage
 import pandas as pd
 
-sender = 'teknas17@gmail.com'
-password = 'htbsbecawwjuorag'
+sender = 'enter_your_email_here'
+password = 'enter_your_password_here'
 
 #creating a list for receivers
 receiver = ['teknasevad@gmail.com']
